@@ -1,0 +1,27 @@
+{
+    "i18n-ally.localesPaths": [
+        "resources/lang"
+    ],
+    "commentTranslate.hover.enabled": false,
+    "cSpell.words": [
+        "describtion",
+        "detalils",
+        "إضافة",
+        "التسجيل",
+        "الحذف",
+        "الصورة",
+        "الفاتورة",
+        "القسم",
+        "المرفق",
+        "الوصف",
+        "بالفعل",
+        "بنجاح",
+        "تاريخ",
+        "تحديث",
+        "صيغة",
+        "مدفوعة",
+        "مسبقا",
+        "موجود",
+        "يرجى"
+    ]
+}
